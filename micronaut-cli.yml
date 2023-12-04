@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [app-name, discovery-kubernetes, gitlab-workflow-ci, graalvm, http-client-test, jib, junit, kapt, kotlin, kotlin-application, kubernetes, logback, management, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, readme, serialization-jackson, shade, toml, toml-build]
